@@ -176,7 +176,7 @@ export default function NavBar() {
 
 	return (
 		<header>
-			<AppBar className={header}>
+			<AppBar className={header} position="static">
 				{mobileView ? displayMobile() : displayDesktop()}
 			</AppBar>
 		</header>
