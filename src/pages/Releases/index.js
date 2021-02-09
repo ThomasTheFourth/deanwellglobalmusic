@@ -46,6 +46,70 @@ export default function Releases() {
 					</Typography>
 				</CardContent>
 			</Card>
+			<Card className={ card }>
+				<CardContent>
+					<img className={ image } src={process.env.PUBLIC_URL + '/images/across_the_depths.jpg'} />
+					<Typography color="textSecondary">
+						Picture One
+					</Typography>
+					<Typography variant="h6" component="h2">
+						Across The Depths of Seven Lakes
+					</Typography>
+					<Typography variant="body2" component="p">
+						Catalog Number: DWGM-20
+						<br />
+						Formats: Vinyl LP/Cassette Tape/Digital
+					</Typography>
+				</CardContent>
+			</Card>
+			<Card className={ card }>
+				<CardContent>
+					<img className={ image } src={process.env.PUBLIC_URL + '/images/across_the_depths.jpg'} />
+					<Typography color="textSecondary">
+						Picture One
+					</Typography>
+					<Typography variant="h6" component="h2">
+						Across The Depths of Seven Lakes
+					</Typography>
+					<Typography variant="body2" component="p">
+						Catalog Number: DWGM-20
+						<br />
+						Formats: Vinyl LP/Cassette Tape/Digital
+					</Typography>
+				</CardContent>
+			</Card>
+			<Card className={ card }>
+				<CardContent>
+					<img className={ image } src={process.env.PUBLIC_URL + '/images/across_the_depths.jpg'} />
+					<Typography color="textSecondary">
+						Picture One
+					</Typography>
+					<Typography variant="h6" component="h2">
+						Across The Depths of Seven Lakes
+					</Typography>
+					<Typography variant="body2" component="p">
+						Catalog Number: DWGM-20
+						<br />
+						Formats: Vinyl LP/Cassette Tape/Digital
+					</Typography>
+				</CardContent>
+			</Card>
+			<Card className={ card }>
+				<CardContent>
+					<img className={ image } src={process.env.PUBLIC_URL + '/images/across_the_depths.jpg'} />
+					<Typography color="textSecondary">
+						Picture One
+					</Typography>
+					<Typography variant="h6" component="h2">
+						Across The Depths of Seven Lakes
+					</Typography>
+					<Typography variant="body2" component="p">
+						Catalog Number: DWGM-20
+						<br />
+						Formats: Vinyl LP/Cassette Tape/Digital
+					</Typography>
+				</CardContent>
+			</Card>
 		</div>
 	)
 };
